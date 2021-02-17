@@ -5,4 +5,4 @@
 <p>Este es el primer projecto propuesto por freeCodeCamp es un plan de estudios</p>
 
 <hr>
-<h3>Las tecnologias utilizadas fueron: <b>HTML</b> y <b>CSS</b></h3>
+<p>Las tecnologias utilizadas fueron: <b>HTML</b> y <b>CSS</b><p>
