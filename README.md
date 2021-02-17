@@ -4,7 +4,7 @@
 
 <p>Este es el primer projecto propuesto por freeCodeCamp es un plan de estudios</p>
 <p>Las tecnologias utilizadas fueron: <b>HTML</b> y <b>CSS</b><p>
-<p>Puede acceder al sitio web haciendo <a href="https://jruizsilva-tribute-page.netlify.app/" target="_blank">click aquí</a> (utiliza ctrl + click)</p>
+<p>Puede acceder al sitio web haciendo <a href="https://jruizsilva-tribute-page.netlify.app/" target="_blank">click aquí</a>. Utiliza ctrl + click para evitar que se abra en la pestaña actual</p>
 
 
  <hr>
