@@ -7,4 +7,4 @@
   
  <hr>
  <h3>Screenshot del sitio web</h3>
- <img src="https://www.awesomescreenshot.com/image/6194469?key=6c098fd1a3faa209f6e39f68f2cc73e8" alt="Imagen del sitio web">
+ [Imgur](https://imgur.com/rulifnE)
