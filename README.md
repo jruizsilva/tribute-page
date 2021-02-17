@@ -7,4 +7,4 @@
   
  <hr>
  <h3>Screenshot del sitio web</h3>
- [Imgur](https://imgur.com/rulifnE)
+<img src="https://imgur.com/a/EPPNOI8">
