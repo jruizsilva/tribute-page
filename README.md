@@ -8,3 +8,4 @@
  <hr>
  <h3>Screenshot del sitio web</h3>
 <img src="https://imgur.com/a/EPPNOI8">
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/EPPNOI8" data-context="false" ><a href="//imgur.com/a/EPPNOI8">Tribute Page</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
