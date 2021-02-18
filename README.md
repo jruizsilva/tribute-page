@@ -14,10 +14,10 @@ Puedes acceder al sitio web haciendo [click aqui](https://jruizsilva-tribute-pag
 
 ### Screenshot del sitio web (desktop)
 
-![Screenshot del sitio web](https://awesomescreenshot.s3.amazonaws.com/image/1849999/6194469-19465a0b6ccec3395999d88917961957.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20210218%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210218T164453Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=e626f08bdcb6a7fc5e84bba46ab1095b932c774524af094dd7bd7a157568d699 "Vista del sitio en desktop")
+![Screenshot del sitio web](https://awesomescreenshot.s3.amazonaws.com/image/1849999/6213338-db818c7c3c8707d541f954800ed2cd0c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20210218%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210218T234022Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=f467b52338c4c53e2bbe1584b2da94b6601d6a66732c22bf8548db02609312ea "Vista del sitio en desktop")
 
 ---
 
 ### Screenshot del sitio web (mobile)
 
-![Screenshot del sitio web](https://awesomescreenshot.s3.amazonaws.com/image/1849999/6208898-9d0f87fc838526ade7c3bfbcb6a58d9f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20210218%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210218T165218Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=8dc44e9fe8b062015dd12d633a20b6a449ffe78faa359e89c41c490ffc1da45c "Vista del sitio en mobile")
+![Screenshot del sitio web](https://awesomescreenshot.s3.amazonaws.com/image/1849999/6213342-21d4253fcdfd1425f431e8e77c1fb130.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20210218%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210218T234053Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=3188cd4e529f44a8fad84e652c7e005450300046240ebc7c9863fe49ede92745 "Vista del sitio en mobile")
