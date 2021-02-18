@@ -1,6 +1,6 @@
-#Tribute Page
+# Tribute Page
 
-##FreeCodeCamp Project #1
+## FreeCodeCamp Project #1
 
 <p>Este es el primer projecto propuesto por freeCodeCamp es un plan de estudios</p>
 <p>Las tecnologias utilizadas fueron: <b>HTML</b> y <b>CSS</b><p>
